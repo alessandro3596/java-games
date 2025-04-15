@@ -1,16 +1,19 @@
-# number-guesser
+# Java games
 
-A number guessing game, written in Java
+A collection of my favourite java games, nice to play when bored
 
-## Game
+## Games
+### Number Guesser
 You have to guess a number between 1 and 100
+
+
 
 ## Compilation
 ```bash
-javac Game.java
+javac <GameName>.java
 ```
 
 ## Runtime
 ```
-java Game
+java <GameName>
 ```
